@@ -1,5 +1,8 @@
 body{
     font-family: 'Ubuntu';
+    width:50%;
+    position:relative;
+    left:25%;
 }
   table,th,td,tr{
 border:1px solid black;
@@ -17,4 +20,16 @@ padding: 10px;
   }
   .c{
     background-color: rgb(221, 212, 212);
+  }
+  .imag{
+    padding: 20px;
+  }
+  #ima{
+    border-radius: 100%;
+    float:left;
+  }
+  #spec{
+    width:50%;
+    position:relative;
+    left:15%;
   }
